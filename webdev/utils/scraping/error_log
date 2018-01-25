@@ -1,0 +1,8 @@
+[04-Oct-2017 21:06:30 UTC] PHP Notice:  Undefined offset: 3 in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 6
+[04-Oct-2017 21:06:34 UTC] PHP Notice:  Undefined offset: 3 in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 6
+[04-Oct-2017 21:08:27 UTC] PHP Notice:  Undefined offset: 1 in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 6
+[04-Oct-2017 21:09:38 UTC] PHP Notice:  Undefined offset: 1 in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 7
+[04-Oct-2017 21:09:53 UTC] PHP Notice:  Array to string conversion in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 7
+[04-Oct-2017 21:15:34 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 9
+[04-Oct-2017 21:15:44 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 12
+[04-Oct-2017 21:15:47 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/scottsorci/public_html/webdev/utils/scraping/event_scrape.php on line 12

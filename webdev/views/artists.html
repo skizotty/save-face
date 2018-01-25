@@ -1,0 +1,18 @@
+<div class="main">
+  <div class="container">
+  <h2> Artists </h2>
+    <div class="row">
+      <div class="item col-md-4" ng-repeat="x in artist">
+        <a href="artist/{{x.name}}">
+         <div class="viewport">
+          <img class="img-responsive" ng-src="{{ x.img_url }}">
+          <p class="author">{{ x.name }}</p>
+         </div>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+

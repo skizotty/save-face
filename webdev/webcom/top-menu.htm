@@ -1,0 +1,34 @@
+<div id='topbar'></div>
+   <script type="text/javascript">
+   	(function writeTitlePage() {
+   	 console.log('init');
+   	 var title = [
+   	  {
+   	    "value":"dashboard",
+   	    "title":"Welcome to the Main Dashboard!"
+   	  },
+   	  {
+   	    "value":"users",
+   	    "title":"Users Dashboard"
+   	  },
+   	  {
+   	    "value":"event",
+   	    "title":"Event Dashboard"
+   	  },
+   	  {
+   	    "value":"venue",
+   	    "title":"Venues Dashboard"
+   	  },
+   	  {
+   	    "value":"ticket",
+   	    "title":"Tickets Dashboard"
+   	  }
+   	]
+   	var x = document.location.href;
+	for(i=0;i<title.length;i++) {
+	   if(x.indexOf(title[i].value)>-1) {
+	      document.getElementById("topbar").innerHTML = title[i].title;
+	   }
+	}})();  	
+   
+   </script>

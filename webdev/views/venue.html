@@ -1,0 +1,21 @@
+<div class="photo">
+  <div class="container">
+    <img ng-src="{{ detail.img_url }}" class="lead-img">
+    <h2 class="photo-title">{{ detail.venue_name }} </h2>
+    <p class="photo-author">{{ detail.address }} </p>
+    <p class="photo-views"> {{detail.city}}, {{detail.state}}</p>
+  <div class="events">
+  <h2>Upcoming Events at {{ detail.venue_name }} </h2>
+      <div class="events" ng-repeat="x in events">
+        <a href="/events/{{x.name}}">
+          <p class="event-name">{{ x.name }}</p>
+          <p class="event-date">{{ x.date  | date }}</p>
+	</a>
+	<br>
+          <hr>
+    </div> 
+    </div>	
+</div>
+</div>
+  </div>
+

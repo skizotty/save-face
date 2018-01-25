@@ -1,0 +1,16 @@
+<div class="main">
+  <div class="container">
+    <h2>{{detail.name}}</h2>
+    <h4>{{detail.date | date}} | {{detail.event_time | date:'shortTime'}}</h4>
+    <hr>
+    Tickets - 
+      <div class="events" ng-repeat="x in tickets">
+         <div>
+          <p class="ticket-name">{{ x.name }}</p>
+          <p class="ticket-date">{{ x.price  | currency }}</p>
+          
+      <hr>
+     </div>
+    </div>     
+  </div>
+</div>

@@ -1,0 +1,17 @@
+<div class="main">
+  <div class="container">
+  <h2> Contacts</h2>
+    <div class="row">
+    	<div class="contact-card col-sm-4" ng-repeat="x in contact">
+    	<div class="viewport-contact">
+    	  <img class="contact-card-img" ng-src="{{ x.headshot_url }}">
+    	  </div>
+	      <h5>
+	         <p class="user"> {{ x.fname }}, {{ x.lname }} </p>
+	         <p class="user-email">{{ x.email }}</p>   
+	      </h5>    
+	</div>  
+       </div>
+    </div>
+  </div>
+</div>

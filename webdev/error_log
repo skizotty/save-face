@@ -1,0 +1,114 @@
+[31-Oct-2017 17:41:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 8
+[31-Oct-2017 17:41:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 9
+[31-Oct-2017 17:43:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 8
+[31-Oct-2017 17:43:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 9
+[31-Oct-2017 17:44:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 8
+[31-Oct-2017 17:44:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 9
+[31-Oct-2017 17:47:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 8
+[31-Oct-2017 17:47:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/scottsorci/public_html/webdev/login.php on line 9
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:23 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:24 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:25 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:26 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:26 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:26 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:31 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: username in /home/scottsorci/public_html/webdev/login.php on line 10
+[01-Nov-2017 15:00:32 UTC] PHP Notice:  Undefined index: password in /home/scottsorci/public_html/webdev/login.php on line 11
+[01-Nov-2017 15:00:43 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[01-Nov-2017 15:00:43 UTC] PHP Notice:  Undefined index: username in /home/scottsorci/public_html/webdev/login.php on line 10
+[01-Nov-2017 15:00:43 UTC] PHP Notice:  Undefined index: password in /home/scottsorci/public_html/webdev/login.php on line 11
+[05-Nov-2017 00:38:59 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/dashboard.php on line 11
+[05-Nov-2017 00:38:59 UTC] PHP Notice:  Undefined index: username in /home/scottsorci/public_html/webdev/login.php on line 10
+[05-Nov-2017 00:38:59 UTC] PHP Notice:  Undefined index: password in /home/scottsorci/public_html/webdev/login.php on line 11
+[05-Nov-2017 01:37:03 UTC] PHP Parse error:  syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /home/scottsorci/public_html/webdev/utils/webcom/check.php on line 5
+[05-Nov-2017 02:51:22 UTC] PHP Notice:  Undefined index: loggedin in /home/scottsorci/public_html/webdev/utils/webcom/check.php on line 4
+[05-Nov-2017 02:51:22 UTC] PHP Notice:  Undefined index: username in /home/scottsorci/public_html/webdev/login.php on line 10
+[05-Nov-2017 02:51:22 UTC] PHP Notice:  Undefined index: password in /home/scottsorci/public_html/webdev/login.php on line 11
+[13-Nov-2017 03:05:16 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:05:16 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:05:54 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:05:54 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:49 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:49 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:51 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:51 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:56 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:06:56 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:07:36 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:07:36 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:08:34 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 03:08:34 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 14:53:15 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 14:53:15 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 14:53:17 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[13-Nov-2017 14:53:17 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[01-Dec-2017 15:36:35 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[01-Dec-2017 15:36:35 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[01-Dec-2017 15:38:43 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[01-Dec-2017 15:38:43 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[04-Dec-2017 20:27:49 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[04-Dec-2017 20:27:49 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[12-Dec-2017 15:59:14 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[12-Dec-2017 15:59:14 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[23-Jan-2018 15:31:57 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[23-Jan-2018 15:31:57 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[23-Jan-2018 15:32:40 UTC] PHP Warning:  include(utils/webcom/eventselectdropdown.php): failed to open stream: No such file or directory in /home/scottsorci/public_html/webdev/tickets.php on line 75
+[23-Jan-2018 15:32:40 UTC] PHP Warning:  include(): Failed opening 'utils/webcom/eventselectdropdown.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scottsorci/public_html/webdev/tickets.php on line 75

@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="./utils/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- <link href="./utils/css/font-awesome.min.css" rel="stylesheet" /> -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,300' rel='stylesheet' type='text/css'>
+    <link href="css/main.css" rel="stylesheet" />
+    <base href="/">
+    <!-- Include the core AngularJS library -->
+    <script src="utils/js/angularjs_1_35.js"></script>
+    <script src="utils/js/angularjs_routing.js"></script>
+    <script src="utils/js/jquery.min.js"></script>
+    <script type="text/javascript" src="./utils/js/scripts.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save Face Tickets</title>
+  </head>
+  
+  <body ng-app="TicketApp">
+
+ <div class="header">
+      <div class="container ">
+      <div class="row" id="head">
+ 		<div class="topnav" id="myTopnav">
+ 			<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  			<a href="/#/"> Venues </a>
+ 			<a href="/#/events"> Events </a>
+ 			<a href="/#/artist"> Artist </a>
+  			<a href="/#/contact"> Contact Us </a>
+ 		        <a href="http://webdev.scottsorci.com/login"> Login </a>
+		</div>
+		
+        </div>
+      </div>
+    </div>
+         <div ng-view></div>
+
+ 
+
+
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/controllers.js"></script>
+
+
+
+    <!-- Services -->
+    <script src="js/services/services.js"></script>
+
+    
+     <!--
+    <div class="search-text"> 
+       <div class="container">
+         <div class="row text-center">
+         
+           <div class="form">
+               <h4>SIGN UP TO OUR NEWSLETTER</h4>
+                <form id="search-form" class="form-search form-horizontal">
+                    <input type="text" class="input-search" placeholder="Email Address">
+                    <button type="submit" class="btn-search">SUBMIT</button>
+                </form>
+            </div>
+        
+          </div>         
+       </div>     
+	</div>
+	-->
+    <footer>
+     <div class="container">
+       <div class="row">
+       
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <span class="logo">Save Face Tickets</span>
+                </div>
+                
+               
+  			
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <ul class="menu">
+                         <span>Menu</span>    
+                         <li>
+                            <a href="/#/">Venues</a>
+                          </li>
+                               
+                          <li>
+                             <a href="/#/events">Events</a>
+                          </li>
+                               
+                          <li>
+                            <a href="/#/artist">Artists</a>
+                          </li>
+                               
+                          <li>
+                             <a href="/#/contact">Contact </a>
+                          </li>
+                     </ul>
+                </div>
+           
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <ul class="adress">
+                        <span>Admin</span>       
+                        <li>
+                           <a href="/#/login">Login/Register</a>
+                        </li>
+                   </ul>
+               </div>
+           
+           
+           </div> 
+        </div>
+
+  </body>

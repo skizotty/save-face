@@ -1,0 +1,18 @@
+<div class="main">
+  <div class="container">
+    <h2>Upcoming Events</h2>
+      <div class="events" ng-repeat="x in event">
+      <a href="events/{{x.name}}">
+    
+          <p id="event-name" class="event-name">{{ x.name }}</p>
+          <p class="event-date">{{ x.date  | date }} | {{ x.time | date:'shortTime'}}</p>
+          <p class="event-price">{{ x.event_price | currency }}</p>
+          <a href="/venues/{{ x.venue_name }}"><p class="event-venue">{{ x.venue_name }}</p></a>
+          <br>
+       </a>
+          <hr>
+    </div>      
+  </div>
+</div>
+
+<i class="fa fa-map-marker" ng-show="{{x.sold_out}}">sold out</i>
